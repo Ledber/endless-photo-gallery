@@ -1,16 +1,8 @@
-# inf_gallery
+Приложение бесконечная галлерея на flutter
+Разработчик - Владимиров Илья
+API для фото - https://unsplash.com
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/Ledber/endless-photo-gallery/assets/75435855/aa292d08-7502-4329-8ab7-109f092d840a
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
